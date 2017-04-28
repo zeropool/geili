@@ -32,7 +32,7 @@ http://www.abc.com/portal/37?h=f38ffb9dcac975380fc8e85e02389b6d3ef7ebd0536a3609f
 | e      | 附加信息      |   String | 否 |
 
 ```
-返加ok表示成功, 其它指错误
+返回ok表示成功, 其它指错误
 ```
 
 > 加密签名算法
